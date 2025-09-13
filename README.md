@@ -63,8 +63,6 @@ This will delete all present attendance data and create new attendance objects f
 
 ![alt text](https://imgur.com/pMAoEbG.png)
 
-![alt text](https://imgur.com/ZiQ3RRA.png)
-
 ![alt text](https://imgur.com/i025CJW.png)
 
 ![alt text](https://imgur.com/HQlLYmC.png)
